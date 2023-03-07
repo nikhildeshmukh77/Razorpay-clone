@@ -3,7 +3,7 @@ index.html is the main file in the repo which contains the code.
 
 PRE-REQUSITES
   You have intall first Node.js into you system.
-  Use <script src="https://cdn.tailwindcss.com"></script> into your head part of code if you are not familiar with the method of applying Tailwind.
+  Use <script src="https://cdn.tailwindcss.com"></script> into your head part of code if you are not familiar with classical the method of applying Tailwind.
   
 
 Faced some issues while uploading svg's and images, that's why blunderd with it. Forgive for that ;)
